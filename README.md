@@ -1,2 +1,2 @@
 # Population
-Population SQL assignment
+Population SQLite assignment from Codecademy
